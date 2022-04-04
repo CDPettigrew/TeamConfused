@@ -1,4 +1,19 @@
 
+body h2{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cheetah
+{
+    width: 5px;
+    height: 120px;
+}
+body p
+{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
 .lego {
     font-family:Arial, Helvetica, sans-serif;
 .chris{
@@ -7,4 +22,5 @@
     float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: lightslategray;
+
 }
